@@ -1,2 +1,2 @@
 # devops-engineer
-Entenda o que faz um Devops Engineer.
+Entenda o que faz um Engenheiro Devops.
