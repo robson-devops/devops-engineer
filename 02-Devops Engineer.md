@@ -227,4 +227,4 @@ sfsfsf
 [API](https://www.freecodecamp.org/news/what-does-api-stand-for-a-definition-of-the-coding-acronym-in-plain-english/)
 |
 
-##### [Menu principal](../README.md)
+##### [Menu principal](./README.md)
